@@ -1,0 +1,13 @@
+
+	   <div class="card">
+  <div class="card-body">
+	{{this.BurgerName}}
+{{#unless devoured}}
+	<button class="change btn btn-sm btn-primary"  data-id="{{this.id}}" data-eaten="{{newDevoured}}">
+		Eat it{{/unless}}
+	</button>
+	{{#if devoured}}
+	<button class= "delete btn btn-sm btn-primary delete-burger" data-id= "{{this.id}}">Delete</button>
+  {{/if}}
+	</div>
+	   </div>

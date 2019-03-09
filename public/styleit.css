@@ -1,0 +1,10 @@
+body {
+    background-image: url("./background.jpg");
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+.jumbotron {
+    background-color: darkgreen
+    
+}
