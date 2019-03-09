@@ -7,8 +7,8 @@ This app was put together using:
 <li>Express.js,
 <li>MySQL,
 <li>HandleBars,
-<li>ORM 
+<li>sequelize
 </ol>
 
 
-This app is Deployed on Heroku Check it out at this link https://fathomless-harbor-72354.herokuapp.com/
+This app is Deployed on Heroku Check it out at this link https://boiling-hollows-27692.herokuapp.com/
